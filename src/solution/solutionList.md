@@ -44,10 +44,13 @@
 - [x] 1493
 - [x] 1658
 - [x] 1695
+- [x] 1838 [solution](./1800-1899/1838.Frequency%20of%20the%20Most%20Frequent%20Element.rs)
 - [x] 2024
 - [x] 2090
 - [x] 2379
 - [x] 2461
+- [x] 2730 [solution](./2700-2799/2730.Find%20the%20Longest%20Semi-Repetitive%20Substring.rs)
+- [x] 2779 [solution](./2700-2799/2779.Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation.rs)
 - [x] 2841
 - [x] 2958
 - [x] 3090
