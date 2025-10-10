@@ -49,6 +49,7 @@
 - [x] 2090
 - [x] 2379
 - [x] 2461
+- [x] 2516 [solution](./2500-2599/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.rs)
 - [x] 2730 [solution](./2700-2799/2730.Find%20the%20Longest%20Semi-Repetitive%20Substring.rs)
 - [x] 2779 [solution](./2700-2799/2779.Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation.rs)
 - [x] 2841
