@@ -32,6 +32,7 @@
 - [x] 239
 - [x] 274
 - [x] 380
+- [x] 424 [solution](./0400-0499/424.Longest%20Repeating%20Character%20Replacement.rs)
 - [x] 643
 - [x] 904
 - [x] 1004
