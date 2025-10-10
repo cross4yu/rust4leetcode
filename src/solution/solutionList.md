@@ -48,6 +48,7 @@
 - [x] 1838 [solution](./1800-1899/1838.Frequency%20of%20the%20Most%20Frequent%20Element.rs)
 - [x] 2024
 - [x] 2090
+- [x] 2271 [solution](./2200-2299/2271.Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.rs)
 - [x] 2379
 - [x] 2461
 - [x] 2516 [solution](./2500-2599/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.rs)
