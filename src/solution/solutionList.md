@@ -48,6 +48,7 @@
 - [x] 1838 [solution](./1800-1899/1838.Frequency%20of%20the%20Most%20Frequent%20Element.rs)
 - [x] 2024
 - [x] 2090
+- [x] 2106 [solution](./2100-2199/2106.Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.rs)
 - [x] 2271 [solution](./2200-2299/2271.Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.rs)
 - [x] 2379
 - [x] 2461
