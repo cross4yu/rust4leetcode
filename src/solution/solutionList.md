@@ -51,6 +51,7 @@
 - [x] 2106 [solution](./2100-2199/2106.Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.rs)
 - [x] 2271 [solution](./2200-2299/2271.Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.rs)
 - [x] 2379
+- [x] 2441 [solution](./2400-2499/2441.Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.rs)
 - [x] 2461
 - [x] 2516 [solution](./2500-2599/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.rs)
 - [x] 2730 [solution](./2700-2799/2730.Find%20the%20Longest%20Semi-Repetitive%20Substring.rs)
