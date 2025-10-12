@@ -37,6 +37,7 @@
 - [x] 904
 - [x] 1004
 - [x] 1052
+- [x] 1010 [solution](./1000-1099/1010.Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.rs)
 - [x] 1208
 - [x] 1343
 - [x] 1423
@@ -53,6 +54,7 @@
 - [x] 2379
 - [x] 2441 [solution](./2400-2499/2441.Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.rs)
 - [x] 2461
+- [x] 2506 [solution](./2500-2599/2506.Count%20Pairs%20Of%20Similar%20Strings.rs)
 - [x] 2516 [solution](./2500-2599/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.rs)
 - [x] 2730 [solution](./2700-2799/2730.Find%20the%20Longest%20Semi-Repetitive%20Substring.rs)
 - [x] 2779 [solution](./2700-2799/2779.Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation.rs)

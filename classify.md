@@ -18,5 +18,12 @@
 
 # Data struct
 - [x] 2441 [solution](./src/solution/2400-2499/2441.Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.rs)
+- [x] 1010 [solution](./src/solution/1000-1099/1010.Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.rs)
+- [x] 2506 [solution](./src/solution/2500-2599/2506.Count%20Pairs%20Of%20Similar%20Strings.rs)
+
+
+
+
+
 
 
