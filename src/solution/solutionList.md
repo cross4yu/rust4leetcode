@@ -34,6 +34,7 @@
 - [x] 380
 - [x] 424 [solution](./0400-0499/424.Longest%20Repeating%20Character%20Replacement.rs)
 - [x] 643
+- [x] 739 [solution](./0700-0799/739.Daily%20Temperatures.rs)
 - [x] 904
 - [x] 1004
 - [x] 1052
@@ -43,6 +44,7 @@
 - [x] 1423
 - [ ] 1438
 - [x] 1456
+- [x] 1475 [solution](./1400-1499/1475.Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.rs)
 - [x] 1493
 - [x] 1658
 - [x] 1695
