@@ -19,6 +19,17 @@ impl Solution {
         result
     }
 
+    pub fn final_prices(mut prices: Vec<i32>) -> Vec<i32> {
+        let mut queue = std::collections::VecDeque::new();
+        for i in 0..prices.len() {
+            while !queue.is_empty() && prices[i] <= prices[*queue.back().unwrap()] {
+                prices[queue.pop_back().unwrap()] -= prices[i];
+            }
+            queue.push_back(i);
+        }
+        prices
+    }
+
     // left to right vec
     pub fn final_prices(prices: Vec<i32>) -> Vec<i32> {
         let mut result = vec![0; prices.len()];
