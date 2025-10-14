@@ -21,9 +21,17 @@
 - [x] 1010 [solution](./src/solution/1000-1099/1010.Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.rs)
 - [x] 2506 [solution](./src/solution/2500-2599/2506.Count%20Pairs%20Of%20Similar%20Strings.rs)
 
-# stack
+# Stack
 - [x]  739 [solution](./src/solution/0700-0799/739.Daily%20Temperatures.rs)
 - [x] 1475 [solution](./src/solution/1400-1499/1475.Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.rs)
+- [x]  496 [solution](./src/solution/0400-0499/496.Next%20Greater%20Element%20I.rs)
+
+# DP
+- [x]   70 [solution](./src/solution/0000-0099/70.Climbing%20Stairs.rs)
+- [x]  746 [solution](./src/solution/0700-0799/746.Min%20Cost%20Climbing%20Stairs.rs)
+
+
+
 
 
 

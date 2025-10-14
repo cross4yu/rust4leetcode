@@ -17,6 +17,7 @@
 - [x] 45
 - [x] 55
 - [x] 58
+- [x] 70 [solution](./0000-0099/70.Climbing%20Stairs.rs)
 - [x] 80
 - [x] 88
 - [x] 121
@@ -33,8 +34,10 @@
 - [x] 274
 - [x] 380
 - [x] 424 [solution](./0400-0499/424.Longest%20Repeating%20Character%20Replacement.rs)
+- [x] 496 [solution](./0400-0499/496.Next%20Greater%20Element%20I.rs)
 - [x] 643
 - [x] 739 [solution](./0700-0799/739.Daily%20Temperatures.rs)
+- [x] 746 [solution](./0700-0799/746.Min%20Cost%20Climbing%20Stairs.rs)
 - [x] 904
 - [x] 1004
 - [x] 1052
