@@ -65,6 +65,7 @@
 - [x] 2516 [solution](./2500-2599/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.rs)
 - [x] 2730 [solution](./2700-2799/2730.Find%20the%20Longest%20Semi-Repetitive%20Substring.rs)
 - [x] 2779 [solution](./2700-2799/2779.Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation.rs)
+- [x] 2815 [solution](./2800-2899/2815.Max%20Pair%20Sum%20in%20an%20Array.rs)
 - [x] 2841
 - [x] 2958
 - [x] 3090
