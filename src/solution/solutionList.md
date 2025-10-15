@@ -32,6 +32,7 @@
 - [x] 238
 - [x] 239
 - [x] 274
+- [x] 337 [solution](./0300-0399/337.Combination%20Sum%20IV.rs)
 - [x] 380
 - [x] 424 [solution](./0400-0499/424.Longest%20Repeating%20Character%20Replacement.rs)
 - [x] 496 [solution](./0400-0499/496.Next%20Greater%20Element%20I.rs)
