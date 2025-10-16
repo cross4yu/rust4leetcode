@@ -28,6 +28,7 @@
 - [x] 167
 - [x] 169
 - [x] 189
+- [x] 198 [solution](./0100-0199/198.House%20Robber.rs)
 - [x] 209
 - [x] 219 [solution](./0200-0299/219.Contains%20Duplicate%20II.rs)
 - [x] 238
