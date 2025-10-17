@@ -61,6 +61,7 @@
 - [x] 2106 [solution](./2100-2199/2106.Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.rs)
 - [x] 2266 [solution](./2200-2299/2266.Count%20Number%20of%20Texts.rs)
 - [x] 2271 [solution](./2200-2299/2271.Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.rs)
+- [x] 2320 [solution](./2300-2399/2320.Count%20Number%20of%20Ways%20to%20Place%20Houses.rs)
 - [x] 2379
 - [x] 2441 [solution](./2400-2499/2441.Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative.rs)
 - [x] 2461

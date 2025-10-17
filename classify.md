@@ -38,6 +38,8 @@
 - [x] 2266 [solution](./src/solution/2200-2299/2266.Count%20Number%20of%20Texts.rs)
 - [x]  198 [solution](./src/solution/0100-0199/198.House%20Robber.rs)
 - [x]  213 [solution](./src/solution/0200-0299/213.House%20Robber%20II.rs)
+- [x] 2320 [solution](./src/solution/2300-2399/2320.Count%20Number%20of%20Ways%20to%20Place%20Houses.rs)
+
 
 
 
