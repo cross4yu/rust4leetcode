@@ -41,6 +41,7 @@
 - [x] 496 [solution](./0400-0499/496.Next%20Greater%20Element%20I.rs)
 - [x] 643
 - [x] 739 [solution](./0700-0799/739.Daily%20Temperatures.rs)
+- [x] 740 [solution](./0700-0799/740.Delete%20and%20Earn.rs)
 - [x] 746 [solution](./0700-0799/746.Min%20Cost%20Climbing%20Stairs.rs)
 - [x] 904
 - [x] 1004
