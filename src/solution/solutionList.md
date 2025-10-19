@@ -39,6 +39,7 @@
 - [x] 380
 - [x] 424 [solution](./0400-0499/424.Longest%20Repeating%20Character%20Replacement.rs)
 - [x] 496 [solution](./0400-0499/496.Next%20Greater%20Element%20I.rs)
+- [x] 560 [solution](./0500-0599/560.Subarray%20Sum%20Equals%20K.rs)
 - [x] 643
 - [x] 739 [solution](./0700-0799/739.Daily%20Temperatures.rs)
 - [x] 740 [solution](./0700-0799/740.Delete%20and%20Earn.rs)
