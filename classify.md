@@ -40,6 +40,8 @@
 - [x]  213 [solution](./src/solution/0200-0299/213.House%20Robber%20II.rs)
 - [x] 2320 [solution](./src/solution/2300-2399/2320.Count%20Number%20of%20Ways%20to%20Place%20Houses.rs)
 - [x]  740 [solution](./src/solution/0700-0799/740.Delete%20and%20Earn.rs)
+- [x]   64 [solution](./src/solution/0000-0099/64.Minimum%20Path%20Sum.rs)
+
 
 # prefix
 - [x] 2602 [solution](./src/solution/2600-2699/2602.Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal.rs)
