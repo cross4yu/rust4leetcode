@@ -43,6 +43,7 @@
 - [x]   64 [solution](./src/solution/0000-0099/64.Minimum%20Path%20Sum.rs)
 
 - [x]   62 [solution](./src/solution/0000-0099/62.Unique%20Paths.rs)
+- [x]   63 [solution](./src/solution/0000-0099/63.Unique%20Paths%20II.rs)
 
 
 # prefix
