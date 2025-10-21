@@ -17,6 +17,7 @@
 - [x] 45
 - [x] 55
 - [x] 58
+- [x] 62 [solution](./0000-0099/62.Unique%20Paths.rs)
 - [x] 64 [solution](./0000-0099/64.Minimum%20Path%20Sum.rs)
 - [x] 70 [solution](./0000-0099/70.Climbing%20Stairs.rs)
 - [x] 80
