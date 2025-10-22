@@ -49,6 +49,7 @@
 # prefix
 - [x] 2602 [solution](./src/solution/2600-2699/2602.Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal.rs)
 - [x]  560 [solution](./src/solution/0500-0599/560.Subarray%20Sum%20Equals%20K.rs)
+- [x] 1524 [solution](./src/solution/1500-1599/1524.Number%20of%20Sub-arrays%20With%20Odd%20Sum.rs)
 
 
 

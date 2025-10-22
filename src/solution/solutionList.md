@@ -58,6 +58,7 @@
 - [x] 1456
 - [x] 1475 [solution](./1400-1499/1475.Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.rs)
 - [x] 1493
+- [x] 1524 [solution](./1500-1599/1524.Number%20of%20Sub-arrays%20With%20Odd%20Sum.rs)
 - [x] 1658
 - [x] 1695
 - [x] 1838 [solution](./1800-1899/1838.Frequency%20of%20the%20Most%20Frequent%20Element.rs)
