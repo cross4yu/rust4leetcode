@@ -74,6 +74,7 @@
 - [x] 2506 [solution](./2500-2599/2506.Count%20Pairs%20Of%20Similar%20Strings.rs)
 - [x] 2516 [solution](./2500-2599/2516.Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right.rs)
 - [x] 2602 [solution](./2600-2699/2602.Minimum%20Operations%20to%20Make%20All%20Array%20Elements%20Equal.rs)
+- [x] [todo]2684 [solution](./2600-2699/2684.Maximum%20Number%20of%20Moves%20in%20a%20Grid.rs)
 - [x] 2730 [solution](./2700-2799/2730.Find%20the%20Longest%20Semi-Repetitive%20Substring.rs)
 - [x] 2779 [solution](./2700-2799/2779.Maximum%20Beauty%20of%20an%20Array%20After%20Applying%20Operation.rs)
 - [x] 2815 [solution](./2800-2899/2815.Max%20Pair%20Sum%20in%20an%20Array.rs)

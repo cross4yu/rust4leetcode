@@ -52,6 +52,10 @@
 - [x] 1524 [solution](./src/solution/1500-1599/1524.Number%20of%20Sub-arrays%20With%20Odd%20Sum.rs)
 
 
+# DFS
+- [x] 2684 [solution](./src/solution/2600-2699/2684.Maximum%20Number%20of%20Moves%20in%20a%20Grid.rs)
+
+
 
 
 
