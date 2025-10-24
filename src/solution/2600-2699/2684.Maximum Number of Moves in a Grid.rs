@@ -4,6 +4,8 @@
 
 // @lc code=start
 impl Solution {
+
+    // DFS
     pub fn max_moves(mut grid: Vec<Vec<i32>>) -> i32 {
         fn dfs(i: usize, j: usize, ans: &mut usize, grid: &mut Vec<Vec<i32>>) {
             *ans = (*ans).max(j);
