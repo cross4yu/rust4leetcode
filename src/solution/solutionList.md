@@ -60,6 +60,7 @@
 - [x] 1493
 - [x] 1524 [solution](./1500-1599/1524.Number%20of%20Sub-arrays%20With%20Odd%20Sum.rs)
 - [x] 1658
+- [x] 1685 [solution](./1600-1699/1685.Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.rs)
 - [x] 1695
 - [x] 1838 [solution](./1800-1899/1838.Frequency%20of%20the%20Most%20Frequent%20Element.rs)
 - [x] 1930 [solution](./1900-1999/1930.Unique%20Length-3%20Palindromic%20Subsequences.rs)

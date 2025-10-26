@@ -51,6 +51,7 @@
 - [x]  560 [solution](./src/solution/0500-0599/560.Subarray%20Sum%20Equals%20K.rs)
 - [x] 1524 [solution](./src/solution/1500-1599/1524.Number%20of%20Sub-arrays%20With%20Odd%20Sum.rs)
 - [x] 1930 [solution](./src/solution/1900-1999/1930.Unique%20Length-3%20Palindromic%20Subsequences.rs)
+- [x] 1685 [solution](./src/solution/1600-1699/1685.Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.rs)
 
 
 
