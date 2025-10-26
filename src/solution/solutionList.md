@@ -82,6 +82,7 @@
 - [x] 2815 [solution](./2800-2899/2815.Max%20Pair%20Sum%20in%20an%20Array.rs)
 - [x] 2841
 - [x] 2958
+- [x] 2968 [solution](./2900-2999/2968.Apply%20Operations%20to%20Maximize%20Frequency%20Score.rs)
 - [x] 3090
 - [x] 3634
 - [x] 3679
