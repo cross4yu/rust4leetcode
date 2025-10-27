@@ -53,6 +53,7 @@
 - [x] 1930 [solution](./src/solution/1900-1999/1930.Unique%20Length-3%20Palindromic%20Subsequences.rs)
 - [x] 1685 [solution](./src/solution/1600-1699/1685.Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.rs)
 - [x] 2968 [solution](./src/solution/2900-2999/2968.Apply%20Operations%20to%20Maximize%20Frequency%20Score.rs)
+- [x] 1703 [solution](./src/solution/1700-1799/1703.Minimum%20Adjacent%20Swaps%20for%20K%20Consecutive%20Ones.rs)
 
 
 
