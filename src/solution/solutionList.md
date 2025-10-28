@@ -56,6 +56,7 @@
 - [x] 1423
 - [ ] 1438
 - [x] 1456
+- [x] 1472 [solution](./1400-1499/1472.Design%20Browser%20History.rs)
 - [x] 1475 [solution](./1400-1499/1475.Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.rs)
 - [x] 1493
 - [x] 1524 [solution](./1500-1599/1524.Number%20of%20Sub-arrays%20With%20Odd%20Sum.rs)
