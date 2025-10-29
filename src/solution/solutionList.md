@@ -85,6 +85,7 @@
 - [x] 2841
 - [x] 2958
 - [x] 2968 [solution](./2900-2999/2968.Apply%20Operations%20to%20Maximize%20Frequency%20Score.rs)
+- [x] 3074 [solution](./3000-3099/3074.Apple%20Redistribution%20into%20Boxes.rs)
 - [x] 3090
 - [x] 3634
 - [x] 3679

@@ -62,6 +62,8 @@
 - [x] 2684 [solution](./src/solution/2600-2699/2684.Maximum%20Number%20of%20Moves%20in%20a%20Grid.rs)
 
 
+# Greedy Algorithm (贪心)
+- [x] 3074 [solution](./src/solution/3000-3099/3074.Apple%20Redistribution%20into%20Boxes.rs)
 
 
 
