@@ -87,6 +87,7 @@
 - [x] 2968 [solution](./2900-2999/2968.Apply%20Operations%20to%20Maximize%20Frequency%20Score.rs)
 - [x] 3074 [solution](./3000-3099/3074.Apple%20Redistribution%20into%20Boxes.rs)
 - [x] 3090
+- [x] 3545 [solution](./3500-3599/3545.Minimum%20Deletions%20for%20At%20Most%20K%20Distinct%20Characters.rs)
 - [x] 3634
 - [x] 3679
 - [x] 3693 [solution](./3600-3699/3693.Climbing%20Stairs%20II.rs)
