@@ -66,6 +66,7 @@
 - [x] 3074 [solution](./src/solution/3000-3099/3074.Apple%20Redistribution%20into%20Boxes.rs)
 - [x] 3545 [solution](./src/solution/3500-3599/3545.Minimum%20Deletions%20for%20At%20Most%20K%20Distinct%20Characters.rs)
 - [x] 2279 [solution](./src/solution/2200-2299/2279.Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.rs)
+- [x] 1833 [solution](./src/solution/1800-1899/1833.Maximum%20Ice%20Cream%20Bars.rs)
 
 
 
