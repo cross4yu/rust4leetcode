@@ -49,6 +49,7 @@
 - [x] 746 [solution](./0700-0799/746.Min%20Cost%20Climbing%20Stairs.rs)
 - [x] 904
 - [x] 1004
+- [x] 1005 [solution](./1000-1099/1005.Maximize%20Sum%20Of%20Array%20After%20K%20Negations.rs)
 - [x] 1052
 - [x] 1010 [solution](./1000-1099/1010.Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.rs)
 - [x] 1208
