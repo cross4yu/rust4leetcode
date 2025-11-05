@@ -54,6 +54,7 @@
 - [x] 1010 [solution](./1000-1099/1010.Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.rs)
 - [x] 1208
 - [x] 1343
+- [x] 1403 [solution](./1400-1499/1403.Minimum%20Subsequence%20in%20Non-Increasing%20Order.rs)
 - [x] 1423
 - [ ] 1438
 - [x] 1456
