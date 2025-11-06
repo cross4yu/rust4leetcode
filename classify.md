@@ -70,6 +70,7 @@
 - [x] 1005 [solution](./src/solution/1000-1099/1005.Maximize%20Sum%20Of%20Array%20After%20K%20Negations.rs)
 - [x] 1481 [solution](./src/solution/1400-1499/1481.Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.rs)
 - [x] 1403 [solution](./src/solution/1400-1499/1403.Minimum%20Subsequence%20in%20Non-Increasing%20Order.rs)
+- [x] 1710 [solution](./src/solution/1700-1799/1710.Maximum%20Units%20on%20a%20Truck.rs)
 
 
 

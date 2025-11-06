@@ -67,6 +67,7 @@
 - [x] 1685 [solution](./1600-1699/1685.Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.rs)
 - [x] 1695
 - [x] 1703[todo] [solution](./1700-1799/1703.Minimum%20Adjacent%20Swaps%20for%20K%20Consecutive%20Ones.rs)
+- [x] 1710 [solution](./1700-1799/1710.Maximum%20Units%20on%20a%20Truck.rs)
 - [x] 1833 [solution](./1800-1899/1833.Maximum%20Ice%20Cream%20Bars.rs)
 - [x] 1838 [solution](./1800-1899/1838.Frequency%20of%20the%20Most%20Frequent%20Element.rs)
 - [x] 1930 [solution](./1900-1999/1930.Unique%20Length-3%20Palindromic%20Subsequences.rs)
