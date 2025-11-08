@@ -72,6 +72,7 @@
 - [x] 1838 [solution](./1800-1899/1838.Frequency%20of%20the%20Most%20Frequent%20Element.rs)
 - [x] 1930 [solution](./1900-1999/1930.Unique%20Length-3%20Palindromic%20Subsequences.rs)
 - [x] 2024
+- [x] 2037 [solution](./2000-2099/2037.Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.rs)
 - [x] 2090
 - [x] 2106 [solution](./2100-2199/2106.Maximum%20Fruits%20Harvested%20After%20at%20Most%20K%20Steps.rs)
 - [x] 2266 [solution](./2200-2299/2266.Count%20Number%20of%20Texts.rs)
