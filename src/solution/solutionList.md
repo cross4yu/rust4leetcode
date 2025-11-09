@@ -41,6 +41,7 @@
 - [x] 337 [solution](./0300-0399/337.Combination%20Sum%20IV.rs)
 - [x] 380
 - [x] 424 [solution](./0400-0499/424.Longest%20Repeating%20Character%20Replacement.rs)
+- [x] 455 [solution](./0400-0499/455.Assign%20Cookies.rs)
 - [x] 496 [solution](./0400-0499/496.Next%20Greater%20Element%20I.rs)
 - [x] 560 [solution](./0500-0599/560.Subarray%20Sum%20Equals%20K.rs)
 - [x] 643
